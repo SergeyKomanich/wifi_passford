@@ -1,0 +1,4 @@
+pip install pyinstaller
+
+bild file
+pyinstaller --onefile name file (main.py)
